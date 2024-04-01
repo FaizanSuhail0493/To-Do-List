@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 // let todos = [];
 // let condition = true;
@@ -21,7 +22,7 @@ import inquirer from "inquirer";
 //     condition = (addTask.addMore)
 //     console.log(todos);
 // };
-console.log(`\n Hi Guys Welcome to Faizan's Todo List I have made 3 options for todo list just for practice`);
+console.log(`\n Hi Guys Welcome to Faizan's Todo List I have made 3 options for todo list just for practice \n`);
 let daily = [`You have to do these following things `];
 let eid = [`You have to do these following things `];
 let trip = [`You have to do these following things `];
