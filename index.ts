@@ -2,30 +2,6 @@
 
 import inquirer from "inquirer";
 
-// let todos = [];
-// let condition = true;
-
-// while (condition)
-// {
-
-// let addTask = await inquirer.prompt([
-//         {
-//             name: "todo",
-//             type: "input",
-//             message: "What do you want to Add in the list "
-//         },
-//         {
-//             name: "addMore",
-//             type: "confirm",
-//             message: "Do you want to Add More ",
-//             default: "false"
-//         }
-//     ]
-// );
-//     todos.push(addTask.todo);
-//     condition = (addTask.addMore)
-//     console.log(todos);
-// };
 console.log(`\n Hi Guys Welcome to Faizan's Todo List I have made 3 options for todo list just for practice \n`)
 let daily = [`You have to do these following things `];
 let eid = [`You have to do these following things `];

@@ -1,6 +1,6 @@
 {
-  "name": "cli-optional-to-do-list",
-  "version": "1.0.1",
+  "name": "new-cli-to-do-list",
+  "version": "2.0.1",
   "description": "A list which made by someone to remind tasks.",
   "main": "index.js",
   "type": "module",
